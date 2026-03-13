@@ -1,0 +1,15 @@
+.bgm {
+    
+    background: url("./assets/hero-circle.png"), url("./assets/hero-bg.png");
+    /* background-position: center center; */
+    background-position-x: center, 0px;
+     background-repeat: no-repeat; 
+        background-size: contain, cover;
+     /* background-position: cover; */
+   
+}
+.text{
+    color: #00ff88;
+    font-weight: 700;
+    font-size: 48px;
+}
